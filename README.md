@@ -12,7 +12,7 @@ A sleek, modern Resume Builder app built using **Next.js** and **TypeScript**.
 - Responsive design
 - Clean & modern UI
 
-## 🛠 Tech Stack
+
 ## 🛠 Tech Stack
 - **Next.js** – React Framework
 - **React.js** – Frontend library
@@ -26,10 +26,5 @@ A sleek, modern Resume Builder app built using **Next.js** and **TypeScript**.
 **Nikhil Joshi**  
 📧 [nj4918430@gmail.com](mailto:nj4918430@gmail.com)
 
-## 🚀 Getting Started (for local dev)
-```bash
-git clone https://github.com/nikhiljoshi812/resume-builder-clean.git
-cd resume-builder-clean
-npm install
-npm run dev
+
 
