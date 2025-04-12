@@ -1,5 +1,5 @@
 # 📄 Resume Builder
-resume-builder-clean.vercel.app
+https://resume-builder-clean-qeok18x1x-nikhil-joshi-s-projects.vercel.app/
 
 A sleek, modern Resume Builder app built using **Next.js** and **TypeScript**.
 
