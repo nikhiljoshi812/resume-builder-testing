@@ -1,12 +1,12 @@
 # 📄 Resume Builder
-https://resume-builder-clean.vercel.app
+https://resume-builder-clean-git-main-nikhil-joshi-s-projects.vercel.app/
 
 A sleek, modern Resume Builder app built using **Next.js** and **TypeScript**.
 
 > Built with 💻 by [Nikhil Joshi](mailto:nj4918430@gmail.com)
 
 ## 🚀 Live Demo
-🌐 [Click here to view it live](https://resume-builder-clean.vercel.app)
+🌐 [Click here to view it live](https://resume-builder-clean-git-main-nikhil-joshi-s-projects.vercel.app)
 
 ## 📦 Features
 - Build and preview your resume in real-time
