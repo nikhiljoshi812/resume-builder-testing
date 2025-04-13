@@ -20,38 +20,38 @@
     "profiles": [
       {
         "network": "linkedin",
+        "username": "nikhiljoshi",
+        "url": "www.linkedin.com/in/nikhil-joshi-17576a2bb/"
+      },
+      {
+        "network": "twitter",
         "username": "",
         "url": ""
       },
       {
-        "network": "twitter",
-        "username": "sadanand_pai",
-        "url": "https://x.com/sadanand_pai"
-      },
-      {
         "network": "github",
-        "username": "sadanandpai",
-        "url": "https://github.com/sadanandpai/"
+        "username": "nikhiljoshi",
+        "url": "https://github.com/nikhiljoshi812/"
       },
       {
         "network": "hackerrank",
-        "username": "paicube",
-        "url": "https://www.hackerrank.com/paicube/"
+        "username": "",
+        "url": ""
       },
       {
         "network": "hackerearth",
-        "username": "sadanandpai",
-        "url": "https://www.hackerearth.com/sadanandpai/"
+        "username": "",
+        "url": ""
       },
       {
         "network": "codechef",
-        "username": "sadanandpai",
-        "url": "https://www.codechef.com/sadanandpai/"
+        "username": "",
+        "url": ""
       },
       {
-        "network": "leetcode",
-        "username": "sadanandpai",
-        "url": "https://leetcode.com/sadanandpai/"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
